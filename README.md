@@ -10,5 +10,5 @@ and we will repair and improve it. Hope you can work with us to improve Essentia
 We will start construction of our project in January 2020,and look forward to your support!
 
 
-                                                                                                                                        The Developer of Essential Pubilc,Antix     
-                                                                                                                                                                   2020,11,12
+                                                                                                        The Developer of Essential Pubilc,Antix     
+                                                                                                                                 2020,11,12
